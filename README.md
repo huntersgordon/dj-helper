@@ -7,6 +7,8 @@ script that queries youtube for content and uses the youtube-dl tool to download
 
 2. ```g++ dj.cpp```
 
-3. on the first run, press return to clear the input stream, then enter your desired video/song
+3. To run: ```./a.out```
 
-4. enter ```69``` to query a differernt song. ```^C``` to exit.
+4. on the first run, press return to clear the input stream, then enter your desired video/song
+
+5. enter ```69``` to query a differernt song. ```^C``` to exit.
