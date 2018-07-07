@@ -1,7 +1,7 @@
 # dj-helper
 script that queries youtube for content and uses the youtube-dl tool to download them. Intended for educational purposes only
 
-(calhat.com/djapp.png "the dj app at work")
+![alt text](https:calhat.com/djapp.png "the dj tool at work")
 
 1. ```brew install youtube-dl```
 
