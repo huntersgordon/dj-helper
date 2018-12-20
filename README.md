@@ -3,8 +3,8 @@ script that queries youtube for content and uses the youtube-dl tool to download
 
 ![alt text](https://calhat.com/djapp.png "the dj tool at work")
 
-1. ```brew install youtube-dl``` and
-      ```brew install ffmpeg```
+1. ```sudo brew install youtube-dl``` ;
+      ```sudo brew install ffmpeg```
 
 2. ```g++ dj.cpp```
 
